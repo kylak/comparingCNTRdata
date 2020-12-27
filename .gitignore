@@ -1,0 +1,10 @@
+.DS_Store
+!/Data/CNTR/
+/Data/CNTR/**
+!/Data/CNTR/.keepTheFolderOnGithub
+
+!Diverse/Generated\ Java\ classes/
+Diverse/Generated\ Java\ classes/**
+!Diverse/Generated\ Java\ classes/.keepTheFolderOnGithub
+
+
