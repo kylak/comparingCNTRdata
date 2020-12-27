@@ -3,6 +3,10 @@
 /Data/CNTR/**
 !/Data/CNTR/.keepTheFolderOnGithub
 
+!/Data/dataToTest/
+/Data/dataToTest/**
+!/Data/dataToTest/.keepTheFolderOnGithub
+
 !Diverse/Generated\ Java\ classes/
 Diverse/Generated\ Java\ classes/**
 !Diverse/Generated\ Java\ classes/.keepTheFolderOnGithub
